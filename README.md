@@ -1,5 +1,5 @@
-# ДИС 2 Lecture Notes
 
-This repository contains only the compiled PDF files.
 
-The LaTeX source files are private.
+pishete ako namerite greshki - donitepavi4arov@gmail.com
+
+xD
